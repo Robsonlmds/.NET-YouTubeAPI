@@ -5,11 +5,13 @@
   </a>
 
   <h5 align="center"> 
-    <b>✅ Completo</b> | <b>✅ Responsivo</b>
+    <b>✅ Completo</b>
   </h5>
 </div>
 
-### Demostração 
+<div align="center">
+<h1>Demostração</h1> 
+</div>
 
 <h1 align="center">
   <img alt="Video de demostrção" title="Video de demostrção" src="Assets/video-demo.gif"/> 
