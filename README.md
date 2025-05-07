@@ -12,7 +12,7 @@
 ### Demostração 
 
 <h1 align="center">
-  <img alt="videoSite" title="videoSite" src="wwwroot/assets/planner-blazor.gif"/> 
+  <img alt="Video de demostrção" title="Video de demostrção" src="Assets/video-demo.gif"/> 
 </h1>
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet) 
